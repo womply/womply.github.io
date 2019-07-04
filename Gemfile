@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'octopress'
+gem 'octopress', '>= 3.0.11'
